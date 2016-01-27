@@ -8,7 +8,7 @@ Subsequently, I conducted a sentiment analysis of the tweets and found that only
 ### Hashtags
 I also wanted to see what other hashtags were associated with the beacons hashtags and found, not surprisingly, that IoT was the number one hashtag followed by retail. The retail sector is an early adopter and promoter of beacon technology. Hashtags for mobile, marketing, and retailers rounded out the top five hashtags and give a strong indication that the focus for beacon technology currently is on its applications in retail and marketing. See below for the top 25 hashtags.
 
-![alt tag](graphs/beacons_hashtags.png)
+![alt tag](graphs/beacons_hashtags.png) 
 
 ### Usernames
 I wanted to know who the big players are in this field, so I wanted to get a sense of the top users associated with the beacons hashtag (see the graph below). Verifone, a company known for e-payment transactions and point-of-sale services, and ArubaNetworks, which sells enterprise wireless LAN equipment, were the top two tweeters. A username I was surprised to see pop in the top five was AllRecipes, a digital foods brand. However, once I dug deeper, I found that AllRecipes will pilot Verifone's beacon system in grocery stores. Whether in grocery stores or at the point-of-sale, this is an exciting time for beacon technology.
